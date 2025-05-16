@@ -2,6 +2,8 @@
 out
 #vim
 *.swp
+*.swo
+*.swm
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
